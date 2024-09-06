@@ -15,6 +15,8 @@ This is so I can learn how to use GitHub effectively
 
 *italic*
 
+I like to `code`
+
 * unordered
 * list
 
