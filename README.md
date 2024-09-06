@@ -2,6 +2,8 @@
 This repository is for practicing the github flow
 This is so I can learn how to use GitHub effectively
 
+** * # hi # * ** 
+
 # h1
 ## h2
 ### h3
@@ -12,3 +14,9 @@ This is so I can learn how to use GitHub effectively
 **bold**
 
 *italic*
+
+* unordered
+* list
+
+  1. ordered
+  2. list
